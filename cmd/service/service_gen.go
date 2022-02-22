@@ -2,7 +2,7 @@
 package service
 
 import (
-	endpoint "get_add/pkg/endpoint"
+	endpoint "github.com/zqf960928/getadd/pkg/endpoint"
 	endpoint1 "github.com/go-kit/kit/endpoint"
 	log "github.com/go-kit/log"
 	opentracing "github.com/go-kit/kit/tracing/opentracing"

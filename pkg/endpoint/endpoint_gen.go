@@ -2,7 +2,7 @@
 package endpoint
 
 import (
-	service "get_add/pkg/service"
+	service "github.com/zqf960928/getadd/pkg/service"
 	endpoint "github.com/go-kit/kit/endpoint"
 )
 

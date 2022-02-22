@@ -1,6 +1,6 @@
 package main
 
-import service "get_add/cmd/service"
+import "github.com/zqf960928/getadd/cmd/service"
 
 func main() {
 	service.Run()

@@ -2,7 +2,7 @@
 // versions:
 // 	protoc-gen-go v1.23.0
 // 	protoc        v3.14.0
-// source: get_add/pkg/grpc/pb/get_add.proto
+// source: github.com/zqf960928/getadd/pkg/grpc/pb/get_add.proto
 
 package pb
 

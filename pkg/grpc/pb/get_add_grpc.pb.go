@@ -93,5 +93,5 @@ var _GetAdd_serviceDesc = grpc.ServiceDesc{
 		},
 	},
 	Streams:  []grpc.StreamDesc{},
-	Metadata: "get_add/pkg/grpc/pb/get_add.proto",
+	Metadata: "github.com/zqf960928/getadd/pkg/grpc/pb/get_add.proto",
 }

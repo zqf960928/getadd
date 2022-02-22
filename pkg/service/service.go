@@ -3,7 +3,7 @@ package service
 import (
 	"context"
 	"fmt"
-	"get_add/pkg/grpc/pb"
+	"github.com/zqf960928/getadd/pkg/grpc/pb"
 )
 
 // GetAddService describes the service.

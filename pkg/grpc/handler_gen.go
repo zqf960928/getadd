@@ -2,8 +2,8 @@
 package grpc
 
 import (
-	endpoint "get_add/pkg/endpoint"
-	pb "get_add/pkg/grpc/pb"
+	endpoint "github.com/zqf960928/getadd/pkg/endpoint"
+	pb "github.com/zqf960928/getadd/pkg/grpc/pb"
 	grpc "github.com/go-kit/kit/transport/grpc"
 )
 

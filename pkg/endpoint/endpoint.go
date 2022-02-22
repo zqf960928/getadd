@@ -2,8 +2,8 @@ package endpoint
 
 import (
 	"context"
-	"get_add/pkg/grpc/pb"
-	"get_add/pkg/service"
+	"github.com/zqf960928/getadd/pkg/grpc/pb"
+	"github.com/zqf960928/getadd/pkg/service"
 	"github.com/go-kit/kit/endpoint"
 
 	//endpoint "github.com/go-kit/kit/endpoint"
