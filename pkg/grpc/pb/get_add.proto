@@ -7,12 +7,12 @@ option go_package = "get_add/pkg/grpc/pb";
 
 //The GetAdd service definition.
 service GetAdd {
- rpc Add (AddRequest) returns (AddReply);
+  rpc Add (AddRequest) returns (AddReply);
 }
 message AddRequest {
- int32 a = 1;
- int32 b = 2;
+  int32 a = 1;
+  int32 b = 2;
 }
 message AddReply {
- int32 res = 1;
+  int32 res = 1;
 }

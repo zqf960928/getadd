@@ -1,4 +1,4 @@
-module get_add
+module github.com/zqf960928/getadd
 
 go 1.17
 
